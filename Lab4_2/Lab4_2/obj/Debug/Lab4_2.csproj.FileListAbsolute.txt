@@ -1,0 +1,11 @@
+C:\Users\jraul\OneDrive\Documentos\Progra_3\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csproj.AssemblyReference.cache
+C:\Users\jraul\OneDrive\Documentos\Progra_3\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jraul\OneDrive\Documentos\Progra_3\Lab4_2\Lab4_2\obj\Debug\Lab4_2.Form1.resources
+C:\Users\jraul\OneDrive\Documentos\Progra_3\Lab4_2\Lab4_2\obj\Debug\Lab4_2.Properties.Resources.resources
+C:\Users\jraul\OneDrive\Documentos\Progra_3\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csproj.GenerateResource.cache
+C:\Users\jraul\OneDrive\Documentos\Progra_3\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csproj.CoreCompileInputs.cache
+C:\Users\jraul\OneDrive\Documentos\Progra_3\Lab4_2\Lab4_2\bin\Debug\Lab4_2.exe.config
+C:\Users\jraul\OneDrive\Documentos\Progra_3\Lab4_2\Lab4_2\bin\Debug\Lab4_2.exe
+C:\Users\jraul\OneDrive\Documentos\Progra_3\Lab4_2\Lab4_2\bin\Debug\Lab4_2.pdb
+C:\Users\jraul\OneDrive\Documentos\Progra_3\Lab4_2\Lab4_2\obj\Debug\Lab4_2.exe
+C:\Users\jraul\OneDrive\Documentos\Progra_3\Lab4_2\Lab4_2\obj\Debug\Lab4_2.pdb
